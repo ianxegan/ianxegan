@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ianxegan
 - 👀 I’m interested in stuff.
 - 🌱 I’m currently learning stuff.
-- 💞️ I’m looking to collaborate on stuff at work and stuff where i live.
+- 💞️ I’m looking to collaborate on stuff.
 - 📫 How to reach me...TBD
 
 <!---
